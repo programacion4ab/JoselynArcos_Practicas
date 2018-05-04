@@ -1,0 +1,16 @@
+header{
+	padding: 30px;
+	background-image: url(../img/back5.jpg);
+	text-align: center;
+	padding-right: 50px;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+figure{
+	width: 200px;
+}
+footer{
+	padding-left: 50px;
+	background-color: #6A5ACD;
+	text-align: center;
+}

@@ -1,0 +1,25 @@
+header{
+	background-color:#1E90FF;
+	padding:15px;
+	background-color:#40E0D0;
+	padding:25px;
+	font-family: Century Gothic;
+	text-align: center;
+}
+section{
+text-align: center;
+max-width: 68%;
+font-family: "Arial";
+color:#6C5878;
+text-align: justify;
+padding: 100px;
+
+}
+footer{
+	clear: both;
+	background-color: #00BFFF;
+	padding:50px;
+	text-align: center;
+	font-family: Century Gothic;
+
+}
